@@ -29,7 +29,7 @@ class Url {
 	 * 
 	 * @var array
 	 */
-	private $_ports = array(443);
+	private $_ports = array(443, 80);
 
 
 	/**
